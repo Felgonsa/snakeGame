@@ -1,0 +1,14 @@
+# Ignorar o ambiente virtual do Python
+venv/
+.venv/
+
+# Ignorar as pastas de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de configuração de editores de código populares
+.vscode/
+.idea/
+
+# Ignorar arquivo de metadados do macOS (boa prática para projetos compartilhados)
+.DS_Store
