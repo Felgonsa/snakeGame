@@ -28,3 +28,22 @@ O que começou como um simples jogo controlado por um humano evoluiu para um sis
 
 
   ![Tela ](./img.png)
+
+## ⛮ Como utilizar
+**1. Clone o Repositório**
+
+**2. Crie e Ative o Ambiente Virtual**
+
+# Criar o ambiente
+python3 -m venv venv
+
+# Ativar o ambiente virtual (Linux/Mac)
+source venv/bin/activate
+
+**3. Instale as dependências**
+pip install -r requirements.txt
+
+
+
+
+
